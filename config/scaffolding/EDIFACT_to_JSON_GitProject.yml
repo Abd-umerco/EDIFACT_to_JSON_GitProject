@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EDIFACT_to_JSON_GitProject
+  gitServerName: AbdUmerco
+  gitUrl: https://github.com/Abd-umerco
+  gitUsername: Abd-umerco
+  gitBranch: main
