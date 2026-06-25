@@ -2,6 +2,9 @@ version: "1.0"
 info:
   model: int-scaffold
 packages:
+- name: WmEDIProvider
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: supported
 - name: EDIFACT_to_JSON_GitProject
   gitServerName: AbdUmerco
   gitUrl: https://github.com/Abd-umerco
