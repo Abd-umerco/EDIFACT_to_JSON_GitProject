@@ -6,4 +6,11 @@
   <value name="node_nsName">project.edifact_to_json_git.integrations</value>
   <value name="node_pkg">EDIFACT_to_JSON_GitProject</value>
   <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared"></value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+  </array>
 </Values>
